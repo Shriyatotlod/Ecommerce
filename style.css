@@ -26,10 +26,7 @@
   margin-left: 15px;
 }
 
-/* .logo { 
-  margin-top: 15px;
-  margin-left: 15px;
-}*/
+
 .navbar ul {
   flex: 1;
   text-align: right;
@@ -63,10 +60,10 @@ p {
   min-width: 300px;
 }
 
-/* .col-2 img { 
+.col-2 img { 
   max-width: 100%;
   padding: 50px 0px;
-}*/
+}
 
 .col-2 h1 {
   padding: 15px 0px;
@@ -98,3 +95,9 @@ p {
 .categories {
   margin: 70px 0;
 }
+
+ .menu-icon { 
+  width: 35px;
+  margin-left: 20px;
+  display: flex;
+} 
