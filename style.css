@@ -21,6 +21,11 @@
   color: rgb(255, 145, 0);
 }
 
+.logo {
+  margin-top: 15px;
+  margin-left: 15px;
+}
+
 /* .logo { 
   margin-top: 15px;
   margin-left: 15px;
