@@ -148,3 +148,23 @@ p {
   text-align: center;
   margin: 60px 0px;
 }
+
+/* Brands */
+
+.brand {
+  margin: 100px auto;
+}
+
+.col-5 {
+  width: 160px;
+}
+
+.col-5 img {
+  width: 100%;
+  cursor: pointer;
+  filter: grayscale(100%);
+}
+
+.col-5 img:hover {
+  filter: grayscale(0%);
+}
