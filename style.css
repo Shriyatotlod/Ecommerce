@@ -168,3 +168,19 @@ p {
 .col-5 img:hover {
   filter: grayscale(0%);
 }
+
+/* footer */
+.end {
+  background-color: rgb(15, 9, 9);
+  height: 75px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+.menu-icon {
+  width: 20px;
+  margin-left: 20px;
+  display: none;
+}
