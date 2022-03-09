@@ -1,0 +1,173 @@
+[33mcommit 211679e210bcf8cf8c37495a34c04fe70f50b54a[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: 5e9c2ab b2eb2d9
+Author: riyanshi <goyalriyanshi26@gmail.com>
+Date:   Wed Mar 9 01:25:09 2022 +0530
+
+    merging the new changes
+
+[33mcommit b2eb2d9e5b0c23e412b67c9d86ea3f4db00866e8[m[33m ([m[1;32mriyanshi[m[33m)[m
+Author: vanisha10 <agrawalvanisha10@gmail.com>
+Date:   Wed Mar 9 01:06:53 2022 +0530
+
+    after cherry-pick and bug fixing
+
+[33mcommit 5e9c2abd26b6cdaae23cdaa5db8d3f825a6d46cd[m
+Merge: de8b4ab 62e9a8b
+Author: vanisha10 <agrawalvanisha10@gmail.com>
+Date:   Wed Mar 9 01:07:49 2022 +0530
+
+    merging
+
+[33mcommit 62e9a8bb8039fb202470850613d55aa47faa5395[m
+Author: vanisha10 <agrawalvanisha10@gmail.com>
+Date:   Wed Mar 9 01:06:53 2022 +0530
+
+    product2 file modified
+
+[33mcommit 91e513f120a1788151712be7193c592d1eb78de9[m
+Author: vanisha10 <agrawalvanisha10@gmail.com>
+Date:   Wed Mar 9 00:53:48 2022 +0530
+
+    product2 file
+
+[33mcommit de8b4aba64f195840fdd3ea42e3f91569c4fb18c[m
+Merge: 391d222 2198e0c
+Author: shriyatotlod <totlodshriya@iitbhilai.ac.in>
+Date:   Wed Mar 9 00:38:08 2022 +0530
+
+    Merge branch 'main' of https://github.com/Shriyatotlod/ecommerce into main
+
+[33mcommit 391d22271daeb138705d72d5ff7e728f70b83b36[m
+Merge: dae6271 dd4059c
+Author: shriyatotlod <totlodshriya@iitbhilai.ac.in>
+Date:   Wed Mar 9 00:35:36 2022 +0530
+
+    Merge branch 'shriya' into main
+
+[33mcommit dd4059c3c374d3e392e05f6d97fbdb426a3f7b2f[m
+Author: shriyatotlod <totlodshriya@iitbhilai.ac.in>
+Date:   Wed Mar 9 00:35:01 2022 +0530
+
+    Added menu-bar to the header page
+
+[33mcommit 3a1475de3263ad58df752bcc63ae3929d69b7157[m[33m ([m[1;31morigin/riyanshi[m[33m)[m
+Author: riyanshi <goyalriyanshi26@gmail.com>
+Date:   Wed Mar 9 00:34:48 2022 +0530
+
+    change
+
+[33mcommit 2198e0c4932df4ad8af6d867a45a76957095b085[m
+Merge: 341086e dae6271
+Author: riyanshi <goyalriyanshi26@gmail.com>
+Date:   Wed Mar 9 00:26:49 2022 +0530
+
+    Merge branch 'main' of https://github.com/Shriyatotlod/ecommerce into main
+
+[33mcommit 341086e084382c56bcb738fba496abb6684b3208[m
+Merge: ac1c420 1cbc1e4
+Author: riyanshi <goyalriyanshi26@gmail.com>
+Date:   Wed Mar 9 00:24:06 2022 +0530
+
+    Merge branch 'riyanshi' into main
+
+[33mcommit 1cbc1e4886b90042585c62a49593a3a3a50d7e2f[m
+Author: riyanshi <goyalriyanshi26@gmail.com>
+Date:   Wed Mar 9 00:22:48 2022 +0530
+
+    changes made
+
+[33mcommit dae62718b03a17a27ff1d54005a67299693096dc[m
+Merge: ac1c420 5b99f57
+Author: vanisha10 <agrawalvanisha10@gmail.com>
+Date:   Wed Mar 9 00:19:06 2022 +0530
+
+    product
+
+[33mcommit 5b99f579df3ad5249b8c4281b56d58a8571cded6[m
+Author: vanisha10 <agrawalvanisha10@gmail.com>
+Date:   Wed Mar 9 00:18:21 2022 +0530
+
+    product
+
+[33mcommit ac1c4208a91fdd8a5064e22679821853e6655aa0[m
+Merge: ee7a7f2 99daa2c
+Author: vanisha10 <agrawalvanisha10@gmail.com>
+Date:   Tue Mar 8 23:23:39 2022 +0530
+
+    Merge branch 'main' of https://github.com/Shriyatotlod/ecommerce
+
+[33mcommit ee7a7f23850a1ab2d048aabd3a7f0e27e195ae02[m
+Merge: de278e2 cea1d42
+Author: vanisha10 <agrawalvanisha10@gmail.com>
+Date:   Tue Mar 8 23:18:26 2022 +0530
+
+    product 2 merged
+    Merge branch 'vanisha'
+
+[33mcommit 99daa2c539e5e507aad6ccb1bb92bee099d486bd[m
+Author: shriyatotlod <totlodshriya@iitbhilai.ac.in>
+Date:   Tue Mar 8 23:16:10 2022 +0530
+
+    Logo added
+
+[33mcommit 9d0d314a09e91c09f08f2ffcb3953e4049afb0e5[m
+Author: shriyatotlod <totlodshriya@iitbhilai.ac.in>
+Date:   Tue Mar 8 21:53:14 2022 +0530
+
+    added some style to the header page
+
+[33mcommit d4d12dce09fcee090669b260ef2c8e6b0bf3263e[m
+Merge: 27e72e1 de278e2
+Author: shriyatotlod <totlodshriya@iitbhilai.ac.in>
+Date:   Tue Mar 8 21:51:29 2022 +0530
+
+    Merge branch 'main' of https://github.com/Shriyatotlod/ecommerce into shriya
+
+[33mcommit cea1d421837403bca0a29944a25eff85ecfa8a6a[m[33m ([m[1;31morigin/vanisha[m[33m)[m
+Author: vanisha10 <agrawalvanisha10@gmail.com>
+Date:   Tue Mar 8 21:20:43 2022 +0530
+
+    product 2 page added
+
+[33mcommit 27e72e153b3001b0af7332e16e318888b8902819[m
+Author: shriyatotlod <totlodshriya@iitbhilai.ac.in>
+Date:   Tue Mar 8 21:20:31 2022 +0530
+
+    images file added
+
+[33mcommit de278e2b4379e3638ea04dbc835156313ed9737a[m
+Merge: 05026b7 038cff7
+Author: riyanshi <goyalriyanshi26@gmail.com>
+Date:   Tue Mar 8 21:09:27 2022 +0530
+
+    Merge branch 'riyanshi' into main
+
+[33mcommit 05026b744110c0259e9d9b0bab3526e0239f0cea[m
+Author: riyanshi <goyalriyanshi26@gmail.com>
+Date:   Tue Mar 8 21:09:09 2022 +0530
+
+    product1.html has been added
+
+[33mcommit f01fdd15c4dc43652ffdaee19137e267ddb8e56f[m
+Author: shriyatotlod <totlodshriya@iitbhilai.ac.in>
+Date:   Tue Mar 8 21:04:22 2022 +0530
+
+    added navbar
+
+[33mcommit 038cff735aa0f631f843688bb946ce0f86b2c97b[m
+Author: riyanshi <goyalriyanshi26@gmail.com>
+Date:   Tue Mar 8 20:40:12 2022 +0530
+
+    product-1 page has been added
+
+[33mcommit aadffd1ce1dba8d1f76db75316b298e854125a9e[m[33m ([m[1;31morigin/shriya[m[33m, [m[1;32mmaster[m[33m)[m
+Author: vanisha10 <agrawalvanisha10@gmail.com>
+Date:   Mon Mar 7 16:20:06 2022 +0530
+
+    style file added
+
+[33mcommit c3e8041761500942f63d75d3d6bb529e93727e1e[m
+Author: shriyatotlod <totlodshriya@iitbhilai.ac.in>
+Date:   Mon Mar 7 15:20:18 2022 +0530
+
+    initial
