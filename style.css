@@ -126,3 +126,61 @@ p {
 .rating .fa {
   color: #ff523b;
 }
+
+.col-4 {
+  flex-basis: 25%;
+  padding: 50px;
+  min-width: 200px;
+  margin-bottom: 50px;
+  transition: transform 0.5s;
+}
+
+.col-4:hover {
+  transform: translateY(-10px);
+  cursor: pointer;
+}
+
+.col-4 img {
+  width: 100%;
+}
+
+.small-container h2 {
+  text-align: center;
+  margin: 60px 0px;
+}
+
+/* Brands */
+
+.brand {
+  margin: 100px auto;
+}
+
+.col-5 {
+  width: 160px;
+}
+
+.col-5 img {
+  width: 100%;
+  cursor: pointer;
+  filter: grayscale(100%);
+}
+
+.col-5 img:hover {
+  filter: grayscale(0%);
+}
+
+/* footer */
+.end {
+  background-color: rgb(15, 9, 9);
+  height: 75px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+.menu-icon {
+  width: 20px;
+  margin-left: 20px;
+  display: none;
+}
