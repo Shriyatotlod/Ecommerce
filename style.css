@@ -25,8 +25,6 @@
   margin-top: 15px;
   margin-left: 15px;
 }
-
-
 .navbar ul {
   flex: 1;
   text-align: right;
@@ -60,7 +58,7 @@ p {
   min-width: 300px;
 }
 
-.col-2 img { 
+.col-2 img {
   max-width: 100%;
   padding: 50px 0px;
 }
@@ -92,12 +90,6 @@ p {
   margin-top: 70px;
 }
 
-.menu-icon { 
-  width: 35px;
-  margin-left: 20px;
-  display: flex;
-} 
-
 .categories {
   margin: 70px 0;
 }
@@ -118,15 +110,6 @@ p {
   padding: 0px 25px;
 }
 
-.title {
-  text-align: center;
-  margin: 60px 0px;
-}
-
-.rating .fa {
-  color: #ff523b;
-}
-
 .col-4 {
   flex-basis: 25%;
   padding: 50px;
@@ -145,6 +128,15 @@ p {
 }
 
 .small-container h2 {
+  text-align: center;
+  margin: 60px 0px;
+}
+
+.rating .fa {
+  color: #ff523b;
+}
+
+.title {
   text-align: center;
   margin: 60px 0px;
 }
@@ -183,4 +175,37 @@ p {
   width: 20px;
   margin-left: 20px;
   display: none;
+}
+
+/* -----------------------All products---------------------- */
+
+#row-2 {
+  justify-content: space-between;
+  margin: 100px auto 50px;
+}
+
+select {
+  border: 2px solid black;
+}
+
+.page-btn {
+  margin: 25px 0px;
+}
+
+.page-btn span {
+  display: inline-block;
+  border: 1px solid #ff523b;
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  justify-content: center;
+  cursor: pointer;
+  align-items: center;
+}
+.page-btn span a {
+  text-decoration: none;
+}
+.page-btn span:hover {
+  color: white;
+  background: #ff523b;
 }
