@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Account-Shopify</title>
+    <link rel="stylesheet" href="style.css" />
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+  </head>
+
+  <body>
+    <!-- Header page  -->
+
+    <div class="container">
+      <nav class="navbar">
+        <div class="logo">
+          <img src="./images/logo-1.png" width="100px" />
+        </div>
+
+        <ul id="navlist">
+          <li><a href="./index.html">Home</a></li>
+          <li><a href="./product.html">Products</a></li>
+          <li><a href="">Blog</a></li>
+          <li><a href="">Contact</a></li>
+          <li><a href="./account.html">Account</a></li>
+        </ul>
+        <img src="./images/menu.png" class="menu-icon" onclick="menutoggle()" />
+      </nav>
+    </div>
+
+    <!-- Account-Page -->
+
+    <div class="account-page">
+      <div class="container">
+        <div class="row">
+          <div class="col-2">
+            <img src="./images/wallpaper1.png" />
+          </div>
+
+          <div class="col-2">
+            <div class="form-container">
+              <div class="form-btn">
+                <span onclick="login()">Review</span>
+                <span onclick="register()">Register</span>
+                <hr id="Indicator" />
+              </div>
+              <form id="LoginForm" >
+                <!-- <input type="text" placeholder="Username" />
+                <input type="password" placeholder="password" /> -->
+                <textarea name="" id="" cols="30" rows="10"></textarea>
+                <button class="btn" type="submit">Send</button>
+              </form>
+
+
+              
+              <form id="RegForm">
+                <input type="text" placeholder="Username" />
+                <input type="email" placeholder="Email" />
+                <button class="btn" type="submit">Register</button>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Footer -->
+
+    <footer class="end">
+      <div>copyright © 2021-2024 Shopify</div>
+    </footer>
